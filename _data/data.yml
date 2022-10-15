@@ -115,7 +115,7 @@ experiences:
           Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab
     title: Teaching experiences
     info:
-      - role: Lecture speaking
+      - role: Guest lecturer
         time: 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
@@ -126,13 +126,13 @@ experiences:
         details: |
           TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
 projects:
-    title: Scientific Outreach
+    title: Scientific Outreach & Leadership
     intro: >
 
     assignments:
       - title: Selection committee member of MPFI NeuroMEETS seminar series
         link: "https://mpfi.org/science/max-planck-neuromeets/"
-        tagline: "As a member on the selection committee, I evaluate the application materials of the candidates and select speakers for the seminar series."
+        tagline: "Evaluating the application materials of the candidates and select speakers for the seminar series."
 
       - title: eLife community ambassador
         link: "https://elifesciences.org/community"
@@ -147,6 +147,9 @@ projects:
 
       - title: Volunteering in the science community
         tagline: "Volunterring in multiple popular science organizations. Including the Brain awareness week and Brain bee."
+        
+      - title: Chair of the Graduate Student Association
+        tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
 
 publications:
     title: Publications
