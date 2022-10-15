@@ -36,7 +36,7 @@ sidebar:
           link:
 
         - item: Sports
-          link:
+          link: https://www.youtube.com/watch?v=4IEBVhcLHC0
 
 career-profile:
     title: Career Profile
@@ -75,7 +75,7 @@ education:
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
 experiences:
-    title: Research assistant
+    title: Research experiences
     info:
       - role: graduate research assistant
         time: 2018 - 2019
