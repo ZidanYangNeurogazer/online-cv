@@ -12,102 +12,83 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: zidan.yang@mpfi.org
+    timezone: EST
+    linkedin: Zidan Yang
     xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    twitter: '@Zidan_Yang'
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Chinese
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Painting
+          link: https://instagram.com/maiyui_earthroom?r=nametag
+
+        - item: Music
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Sports
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a PhD student at Max Planck Florida Institute for Neuroscience (MPFI), who's keen on system and circuit neuroscience. 
+      I'm trying to understand the dynamical interactions among cortical-subcortical regions during motor timing in mice,
+      with large-scale electrophysiology, optogenetics and computational analysis.   
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D. in Neuroscience
+        university: International Max Planck Research School (IMPRS) at Florida Atlantic University, USA
+        time: 2019 - present
+        dissertation advisor: Dr. Hidehiko Inagaki
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Brain regions work together to plan when and how before executing trained movements, by measuring multiple regions' activities
+          simultaneously with Neuropixels probe, and interrogating their causal relationships with fine-scale optogentics, I'm trying to 
+          untangle the system mecahnism underlying motor timing.     
+            - in vivo electrophysiology in head fixed behaving mice
+            - data analysis in MATLAB
+      - degree: MSc. in Neuroscience
+        university: University College London (UCL), UK
+        time: 2017 - 2018
+        dissertation advisor: Dr. Michael Hausser
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-experiences:
-    title: Experiences
+          High merit with distinction in lab project and dissertation.
+          Core modules: systems and circuit neuroscience, cognitive systems neuroscience, developmental neurobiology,
+          receptors and synaptci signaling, neuroscience journal club. 
+            - Optogenetics
+            - 2 photon/wide field Calcium imaging                        
+      - degree: BSc in Biochemistry & Biotechnology
+        university: University of Birmingham, UK & Huazhong Agricultural University, China
+        time: 2013 - 2017
+        dissertation advisor: Dr. Alicia Hidalgo
+        details: |
+          High II.I with first class in lab project and dissertation. GPA 3.5/4. 
+          Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
+research experiences:
+    title: Research assistant
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: graduate research assistant
+        time: 2018 - 2019
+        company: University College London (UCL), UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Working on two-photon calcium imaging in head-fixed mice performing on a tactile-based
+          discrimination task. Provided key data and analysis for the project.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Guest lecture speaker
+        time: 2022
+        company: Max Planck Florida Institute for Neurosciernce, USA
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
