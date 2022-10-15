@@ -83,23 +83,17 @@ experiences:
         details: |
           Working on two-photon calcium imaging in head-fixed mice performing on a tactile-based
           discrimination task. Provided key data and analysis for the project.
-            - Bullet point
-            - Bullet point
       - role: Master Research Student
         time: 2017 - 2018
         company: University College London (UCL), London
         details: |
           During my lab research project, I aimed to use optogentics to examine if the primary visual cortex is dispensable
           in a simple Go-NoGo visual detection task in head-fixed mice. Provided key data and analysis for the co-author BioRxiv paper.    
-            - Bullet point
-            - Bullet point
       - role: Summer Intern
         time: 2017 July - 2017 August
         company: Institute of Neuroscience, Chinese Academy of Science, Shanghai
         details: |
           Examining the color perception of isoluminance in macaque by pupil diameter monitoring. Provided key data for the project. Dr. Wei Wang's lab.
-            - Bullet point
-            - Bullet point
       - role: Undergraduate final year project
         time: 2016 October - 2017 March
         company: University of Birmingham, Birmingham
@@ -120,31 +114,27 @@ experiences:
           Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
           Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab
 projects:
-    title: Projects
+    title: Scientific Outreach
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Committee member of MPFI NeuroMEETS seminar series
+        link: "https://mpfi.org/science/max-planck-neuromeets/"
+        tagline: "As a member on the selection committee, I evaluate the application materials of the candidates and select speakers for the seminar series."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: eLife community ambassador
+        link: "https://elifesciences.org/community"
+        tagline: "Spreading the awareness of open-science, equity and transparency in the research community."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Project judge of the Big Bang competition of UK 
+        link: "ttps://www.thebigbang.org.uk/the-big-bang-competition/"
+        tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Freelance writer of the popular science magzine SATNAV
+        link: "https://www.satnavmag.com/"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Volunteering in the science community
+        tagline: "Volunterring in multiple popular science organizations. Including the Brain awareness week and Brain bee."
 
 publications:
     title: Publications
