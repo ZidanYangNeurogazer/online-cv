@@ -75,7 +75,7 @@ education:
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
 experiences:
-    title: Research experiences
+    title: Research & teaching experiences
     info:
       - role: Graduate research assistant
         time: 2018 - 2019
@@ -113,8 +113,6 @@ experiences:
         details: |
           Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
           Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab           
-    title: Teaching experiences
-    info:
       - role: Guest lecturer
         time: 2022
         company: Max Planck Florida Institute for Neuroscience, USA
