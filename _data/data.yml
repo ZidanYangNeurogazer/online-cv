@@ -15,7 +15,6 @@ sidebar:
     email: zidan.yang@mpfi.org
     timezone: EST
     linkedin: Zidan Yang
-    xing: alandoe
     twitter: '@Zidan_Yang'
 
     languages:
@@ -75,7 +74,7 @@ education:
         details: |
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
-research experiences:
+experiences:
     title: Research assistant
     info:
       - role: graduate research assistant
