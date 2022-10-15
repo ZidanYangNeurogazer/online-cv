@@ -139,45 +139,27 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement
+        link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
+        authors: Hidehiko K Inagaki, Susu Chen, Margreet C Ridder, Pankaj Sah, Nuo Li, Zidan Yang, Hana Hasanbegovic, Zhenyu Gao, Charles R Gerfen, Karel Svoboda
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Regenerative neurogenic response from glia requires insulin-driven neuron-glia communication"
+        link: "https://elifesciences.org/articles/58756.pdf"
+        authors: Neale J Harrison, Elizabeth Connolly, Alicia Gascon Gubieda, Zidan Yang, Benjamin Altenhein, Maria Losada Perez, Marta Moreira, Jun Sun, Alicia Hidalgo
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The influence of visual cortex on perception is modulated by behavioural state
+        link: "https://www.biorxiv.org/content/biorxiv/early/2019/07/17/706010.full.pdf"
+        authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming language
 
     toolset:
-      - name: Python & Django
+      - name: MATLAB
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
 footer: >
