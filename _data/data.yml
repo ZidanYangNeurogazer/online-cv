@@ -27,16 +27,16 @@ sidebar:
           level: Native
 
     interests:
-      title: Interests
+      title: Outside the lab
       info:
         - item: Painting
           link: https://instagram.com/maiyui_earthroom?r=nametag
+          
+        - item: Sports
+          link: https://www.youtube.com/watch?v=4IEBVhcLHC0
 
         - item: Music
           link:
-
-        - item: Sports
-          link: https://www.youtube.com/watch?v=4IEBVhcLHC0
 
 career-profile:
     title: Career Profile
@@ -48,7 +48,7 @@ education:
     title: Education
     info:
       - degree: Ph.D. in Neuroscience
-        university: International Max Planck Research School (IMPRS) at Florida Atlantic University, USA
+        university: International Max Planck Research School (IMPRS) at Max Planck Florida Institute for Neuroscience, USA
         time: 2019 - present
         dissertation advisor: Dr. Hidehiko Inagaki
         details: |
@@ -113,6 +113,18 @@ experiences:
         details: |
           Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
           Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab
+    title: Teaching experiences
+    info:
+      - role: lecture
+        time: 2022
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Gave a lecture for the Max Planck Honors course (introduction to neuroscience research) on motor control          
+      - role: teaching assistant
+        time: 2022
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
 projects:
     title: Scientific Outreach
     intro: >
