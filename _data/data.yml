@@ -85,28 +85,40 @@ experiences:
           discrimination task. Provided key data and analysis for the project.
             - Bullet point
             - Bullet point
-      - role: Guest lecture speaker
-        time: 2022
-        company: Max Planck Florida Institute for Neurosciernce, USA
+      - role: Master Research Student
+        time: 2017 - 2018
+        company: University College London (UCL), London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          During my lab research project, I aimed to use optogentics to examine if the primary visual cortex is dispensable
+          in a simple Go-NoGo visual detection task in head-fixed mice. Provided key data and analysis for the co-author BioRxiv paper.    
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Summer Intern
+        time: 2017 July - 2017 August
+        company: Institute of Neuroscience, Chinese Academy of Science, Shanghai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Examining the color perception of isoluminance in macaque by pupil diameter monitoring. Provided key data for the project. Dr. Wei Wang's lab.
             - Bullet point
             - Bullet point
+      - role: Undergraduate final year project
+        time: 2016 October - 2017 March
+        company: University of Birmingham, Birmingham
+        details: |
+          Investigating the potentail neuronal receptors and tetraspanins for NG2 kon-tiki in the regenration of
+          Drosophila's central nervous system.Applied microscopy-based RNAi gene screening and ImageJ analysis.
+          Co-author paper published in eLife. Dr. Alicia Hidalgo's lab.  
+      - role: Royal Biology Society Studentship
+        time: 2016 July - 2016 September
+        company: University of Birmingham, Birmingham
+        details: |
+          Investigating the protein-protein and protein-ribosome interaction of YecA in E.coli. Applied size-exclusion
+          chromatography, co-immuniprecipitation. Project report published on Biochemical Society website. Dr. Damon Huber's lab.
+      - role: Chinese Student Reseach Fund Studentship
+        time: 2014 September - 2015 Feburary
+        company: Huazhong Agricultural University, Wuhan
+        details: |
+          Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
+          Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab
 projects:
     title: Projects
     intro: >
