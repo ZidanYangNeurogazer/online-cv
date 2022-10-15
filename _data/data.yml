@@ -77,7 +77,7 @@ education:
 experiences:
     title: Research experiences
     info:
-      - role: graduate research assistant
+      - role: Graduate research assistant
         time: 2018 - 2019
         company: University College London (UCL), UK
         details: |
@@ -130,7 +130,7 @@ projects:
     intro: >
 
     assignments:
-      - title: Committee member of MPFI NeuroMEETS seminar series
+      - title: Selection committee member of MPFI NeuroMEETS seminar series
         link: "https://mpfi.org/science/max-planck-neuromeets/"
         tagline: "As a member on the selection committee, I evaluate the application materials of the candidates and select speakers for the seminar series."
 
@@ -139,7 +139,7 @@ projects:
         tagline: "Spreading the awareness of open-science, equity and transparency in the research community."
 
       - title: Project judge of the Big Bang competition of UK 
-        link: "ttps://www.thebigbang.org.uk/the-big-bang-competition/"
+        link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
         tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
       - title: Freelance writer of the popular science magzine SATNAV
