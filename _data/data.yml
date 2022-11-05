@@ -128,6 +128,22 @@ experiences:
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           Mentoring a post-bac student of the post-bac program of MPFI, project design, planning, daily experiment and analysis guidance
+          
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement
+        link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
+        authors: Hidehiko K Inagaki, Susu Chen, Margreet C Ridder, Pankaj Sah, Nuo Li, Zidan Yang, Hana Hasanbegovic, Zhenyu Gao, Charles R Gerfen, Karel Svoboda
+
+      - title: "Regenerative neurogenic response from glia requires insulin-driven neuron-glia communication"
+        link: "https://elifesciences.org/articles/58756.pdf"
+        authors: Neale J Harrison, Elizabeth Connolly, Alicia Gascon Gubieda, Zidan Yang, Benjamin Altenhein, Maria Losada Perez, Marta Moreira, Jun Sun, Alicia Hidalgo
+
+      - title: The influence of visual cortex on perception is modulated by behavioural state
+        link: "https://www.biorxiv.org/content/biorxiv/early/2019/07/17/706010.full.pdf"
+        authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
 projects:
     title: Scientific Outreach & Leadership
     intro: >
@@ -153,22 +169,6 @@ projects:
         
       - title: Chair of the Graduate Student Association
         tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
-
-publications:
-    title: Publications
-    intro: |
-    papers:
-      - title: A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement
-        link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
-        authors: Hidehiko K Inagaki, Susu Chen, Margreet C Ridder, Pankaj Sah, Nuo Li, Zidan Yang, Hana Hasanbegovic, Zhenyu Gao, Charles R Gerfen, Karel Svoboda
-
-      - title: "Regenerative neurogenic response from glia requires insulin-driven neuron-glia communication"
-        link: "https://elifesciences.org/articles/58756.pdf"
-        authors: Neale J Harrison, Elizabeth Connolly, Alicia Gascon Gubieda, Zidan Yang, Benjamin Altenhein, Maria Losada Perez, Marta Moreira, Jun Sun, Alicia Hidalgo
-
-      - title: The influence of visual cortex on perception is modulated by behavioural state
-        link: "https://www.biorxiv.org/content/biorxiv/early/2019/07/17/706010.full.pdf"
-        authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
 
 skills:
     title: Programming language
