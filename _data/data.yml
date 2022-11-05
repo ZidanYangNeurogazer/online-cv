@@ -75,7 +75,7 @@ education:
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
 experiences:
-    title: Research & teaching experiences
+    title: Research & Mentoring/teaching experiences
     info:
       - role: Graduate research assistant
         time: 2018 - 2019
@@ -123,6 +123,11 @@ experiences:
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
+      - role: Mentor of a Post-bac student
+        time: 2022
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Mentoring a post-bac student from the post-bac program of MPFI, project design and planning, daily experiment and analysis guidance
 projects:
     title: Scientific Outreach & Leadership
     intro: >
