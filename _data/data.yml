@@ -78,7 +78,7 @@ education:
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
 experiences:
-    title: Research & Mentoring/teaching experiences
+    title: Research & Teaching experiences
     info:
       - role: Graduate research assistant
         time: 2018 - 2019
@@ -130,12 +130,17 @@ experiences:
         time: 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Mentoring a post-bac student of the post-bac program of MPFI, project design, planning, daily experiment and analysis guidance
+          Mentoring a post-bac student of the post-bac program of MPFI, project design, planning, daily experiment & analysis guidance. Help with graduate school application.
+          Mentee will persue a Neuroscience doctral degree at the University of Texas at Dallas. 
           
 publications:
-    title: Publications
+    title: Publications & Posters
     intro: |
     papers:
+      - title: Experience-dependent adaptation of motor timing in ALM | poster presentatio at Sunposium 2023, FL, USA
+        link: "https://www.mpfi.org/events/sunposium-conference/#abstract-submission"
+        authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
+        
       - title: A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement
         link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
         authors: Hidehiko K Inagaki, Susu Chen, Margreet C Ridder, Pankaj Sah, Nuo Li, Zidan Yang, Hana Hasanbegovic, Zhenyu Gao, Charles R Gerfen, Karel Svoboda
@@ -147,6 +152,10 @@ publications:
       - title: The influence of visual cortex on perception is modulated by behavioural state
         link: "https://www.biorxiv.org/content/biorxiv/early/2019/07/17/706010.full.pdf"
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
+        
+      - title: All-optical interrogation of functional connectivity in mouse visual cortex during behavior | poster at SfN 2019, IL, USA
+        authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
+
 projects:
     title: Scientific Outreach & Leadership
     intro: >
