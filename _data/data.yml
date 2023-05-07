@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Max Planck Florida Institute for Neuroscience (MPFI), who's keen on system and circuit neuroscience. 
-      I'm trying to understand the dynamical interactions among cortical-subcortical regions during motor timing in mice,
-      with large-scale electrophysiology, optogenetics and computational analysis.   
+      I'm a PhD student at Max Planck Florida Institute for Neuroscience (MPFI), who's keen on system neuroscience. 
+      I'm trying to understand the neural dynamics among cortical and subcortical regions during flexible motor timing in mice using
+      large-scale electrophysiology, optogenetics and computational analysis.   
 education:
     title: Education
     info:
@@ -80,18 +80,24 @@ education:
 experiences:
     title: Research & Teaching experiences
     info:
+      - role: Graduate student
+        time: 2019 - present
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Developed a novel motor timing task. By combining large-scale electrophysiology, optogenetic perturbation and computational analysis,
+          aim to study the neural mechanism underlying flexible motor timing, focusing on the cortico-basal ganglia-thalamic-cortical loop. Dr. Hidehiko Inagaki's lab.
       - role: Graduate research assistant
         time: 2018 - 2019
         company: University College London (UCL), UK
         details: |
           Working on two-photon calcium imaging in head-fixed mice performing on a tactile-based
-          discrimination task. Provided key data and analysis for the project.
+          discrimination task. Provided key data and analysis for the project. Dr. Michael Hausser's lab.
       - role: Master Research Student
         time: 2017 - 2018
         company: University College London (UCL), London
         details: |
           During my lab research project, I aimed to use optogentics to examine if the primary visual cortex is dispensable
-          in a simple Go-NoGo visual detection task in head-fixed mice. Provided key data and analysis for the co-author BioRxiv paper.    
+          in a simple Go-NoGo visual detection task in head-fixed mice. Provided key data and analysis for the co-author BioRxiv paper. Dr. Michael Hausser's lab.  
       - role: Summer Intern
         time: 2017 July - 2017 August
         company: Institute of Neuroscience, Chinese Academy of Science, Shanghai
