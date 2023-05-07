@@ -187,6 +187,10 @@ projects:
         
       - title: Chair of the Graduate Student Association
         tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
+        
+awards:
+    title: Awards
+    intro: |
 
 skills:
     title: Programming language
