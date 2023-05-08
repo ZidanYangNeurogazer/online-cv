@@ -44,8 +44,8 @@ career-profile:
     title: Career Profile
     summary: |
       I'm a PhD student at Max Planck Florida Institute for Neuroscience who's keen on system neuroscience. 
-      I'm trying to understand the neural dynamics among cortical and subcortical regions during flexible motor timing in mice using
-      large-scale electrophysiology, optogenetics and computational analysis.   
+      I'm trying to understand the neural dynamics among cortical and subcortical regions during flexible motor timing in mice, using
+      large-scale electrophysiology, optogenetics manipulation and computational analysis.   
 education:
     title: Education
     info:
@@ -83,31 +83,31 @@ experiences:
         time: 2019 - present
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Developed a novel motor timing task. By combining large-scale electrophysiology, optogenetic perturbation and computational analysis,
+          Developed a novel motor timing task. By combining large-scale extracellular electrophysiology, optogenetics and computational analysis,
           aim to study the neural mechanism underlying flexible motor timing, focusing on the cortico-basal ganglia-thalamic-cortical loop. Dr. Hidehiko Inagaki's lab.
       - role: Graduate research assistant
         time: 2018 - 2019
         company: University College London (UCL), UK
         details: |
-          Working on two-photon calcium imaging in head-fixed mice performing on a tactile-based
+          Two-photon calcium imaging in head-fixed mice performing on a tactile-based
           discrimination task. Provided key data and analysis for the project. Dr. Michael Hausser's lab.
       - role: Master Research Student
         time: 2017 - 2018
         company: University College London (UCL), UK
         details: |
-          During my lab research project, I aimed to use optogentics to examine if the primary visual cortex is dispensable
-          in a simple Go-NoGo visual detection task in head-fixed mice. Provided key data and analysis for the co-author BioRxiv paper. Dr. Michael Hausser's lab.  
+          Appling optogentics to examine if the primary visual cortex is dispensable
+          in a simple Go-NoGo visual task in head-fixed mice. Performed wide-field calcium imaging and behaviral analysis. Provided key data and analysis for the co-author BioRxiv paper. Dr. Michael Hausser's lab.  
       - role: Summer Intern
         time: 2017 July - 2017 August
         company: Institute of Neuroscience, Chinese Academy of Science, China
         details: |
-          Examining the color perception of isoluminance in macaque by pupil diameter monitoring. Provided key data for the project. Dr. Wei Wang's lab.
+          Evaluating the color perception of isoluminance in macaque by pupil diameter monitoring. Provided key data for the project. Dr. Wei Wang's lab.
       - role: Undergraduate final year project
         time: 2016 October - 2017 March
         company: University of Birmingham, UK
         details: |
           Investigating the potentail neuronal receptors and tetraspanins for NG2 kon-tiki in the regenration of
-          Drosophila's central nervous system.Applied microscopy-based RNAi gene screening and ImageJ analysis.
+          Drosophila's central nervous system. Applied microscopy-based RNAi gene screening and ImageJ analysis.
           Co-author paper published in eLife. Dr. Alicia Hidalgo's lab.  
       - role: Royal Biology Society Studentship
         time: 2016 July - 2016 September
@@ -139,7 +139,7 @@ teachingexperiences:
         time: 2022 - 2023
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Mentoring a post-bac student of the post-bac program of MPFI, project design, planning, daily experiment & analysis guidance. Help with graduate school application.
+          Mentoring a post-bac student at MPFI, project design and planning, experiment & analysis & graduate school application guidance.
           Mentee will persue a Neuroscience doctral degree at the University of Texas at Dallas. 
           
 publications:
