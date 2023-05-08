@@ -127,17 +127,17 @@ teachingexperiences:
     title: Teaching & mentoring 
     info:      
       - role: Guest lecturer
-        time: 2022
+        time: 2022 - 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           Lecturing for the Max Planck Honors undergraduate course (introduction to system neuroscience) on motor control          
       - role: Teaching assistant
-        time: 2022
+        time: 2022 - 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
       - role: Mentor of a Post-bac student
-        time: 2022
+        time: 2022 - 2023
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           Mentoring a post-bac student of the post-bac program of MPFI, project design, planning, daily experiment & analysis guidance. Help with graduate school application.
@@ -194,13 +194,13 @@ projects:
         
 awards:
     title: Awards
-    intro: |
+    info: 
     - role: Outstanding Alumni Awards
-        time: 2017
+        time: 2016 - 2017
         company: Huazhong Agricultural University, China
    
     - role: Research Studentship
-        time: 2016
+        time: 2016 - 2016
         company: Royal Society of Biology, Biochemical Society, UK
 
     - role: Outstanding Undergraduate Scholarhsip
