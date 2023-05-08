@@ -78,7 +78,7 @@ education:
           High II.I with first class in lab project and dissertation. GPA 3.5/4. 
           Relevant modules: cellular neurobiology, immunology and signalling in nervous system.
 experiences:
-    title: Research & Teaching experiences
+    title: Research experiences
     info:
       - role: Graduate student
         time: 2019 - present
@@ -121,7 +121,11 @@ experiences:
         company: Huazhong Agricultural University, China
         details: |
           Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
-          Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab           
+          Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab  
+          
+experiences:
+    title: Teaching & mentoring 
+    info:      
       - role: Guest lecturer
         time: 2022
         company: Max Planck Florida Institute for Neuroscience, USA
@@ -206,6 +210,10 @@ awards:
       - title: Scholarship pf Leiao Biochemical Equipment Company, China | 2014 - 2015
       
       - title: University Student Research Fund (SRF), China | 2014 - 2015
+      
+      - title: Scholarship of Denghai Agricultural Company, China | 2013 - 2014
+      
+      - title: Scholarship of President, Huazhong Agricultural University, China | 2013 - 2014
 
 skills:
     title: Programming language
