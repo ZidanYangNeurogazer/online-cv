@@ -167,30 +167,41 @@ projects:
     intro: >
 
     assignments:
-      - title: Selection committee member of MPFI NeuroMEETS seminar series
+      - title: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
         link: "https://mpfi.org/science/max-planck-neuromeets/"
         tagline: "Evaluating the application materials of the candidates and select speakers for the seminar series."
 
-      - title: eLife community ambassador
+      - title: eLife community ambassador | 2018 - 2019
         link: "https://elifesciences.org/community"
         tagline: "Spreading the awareness of open-science, equity and transparency in the research community."
 
-      - title: Project judge of the Big Bang competition of UK 
+      - title: Project judge of the Big Bang competition of UK | 2016
         link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
         tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
-      - title: Freelance writer of the popular science magzine SATNAV
+      - title: Freelance writer of the popular science magzine SATNAV | 2016
         link: "https://www.satnavmag.com/"
 
-      - title: Volunteering in the science community
+      - title: Outreach in the science community 
         tagline: "Volunterring in multiple popular science organizations. Including the Brain awareness week and Brain bee."
         
-      - title: Chair of the Graduate Student Association
+      - title: Chair of the Graduate Student Association | 2020 - 2022
         tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
         
 awards:
     title: Awards
     intro: |
+    
+    assignments:
+      - title: Outstanding Alumni Awards, Huazhong Agricultural University, China | 2017
+      
+      - title: Research Studentship pf Royal Society of Biology, Biochemical Society, UK | 2016
+      
+      - title: China Scholarship Council Outstanding Undergraduate Scholarhsip, China | 2015
+      
+      - title: Scholarship pf Leiao Biochemical Equipment Company, China | 2014 - 2015
+      
+      - title: University Student Research Fund (SRF), China | 2014 - 2015
 
 skills:
     title: Programming language
