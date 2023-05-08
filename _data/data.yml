@@ -195,15 +195,15 @@ projects:
 awards:
     title: Awards
     info: 
-    - role: Outstanding Alumni Awards
+      - role: Outstanding Alumni Awards
         time: 2016 - 2017
         company: Huazhong Agricultural University, China
    
-    - role: Research Studentship
+      - role: Research Studentship
         time: 2016 - 2016
         company: Royal Society of Biology, Biochemical Society, UK
 
-    - role: Outstanding Undergraduate Scholarhsip
+      - role: Outstanding Undergraduate Scholarhsip
         time: 2015 - 2016
         company: China Scholarship Council, China
   
