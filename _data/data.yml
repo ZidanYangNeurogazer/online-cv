@@ -182,15 +182,21 @@ projects:
 
       - title: Project judge of the Big Bang competition of UK | 2016
         link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
+        time: 2016 - 2016
         tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
       - title: Freelance writer of the popular science magzine SATNAV | 2016
         link: "https://www.satnavmag.com/"
+        time: 2016 - 2016
 
       - title: Outreach in the science community 
+        link:
+        time: 2016 - present
         tagline: "Volunterring in multiple popular science organizations. Including the Brain awareness week and Brain bee."
         
       - title: Chair of the Graduate Student Association | 2020 - 2022
+        link:
+        time: 2020 - 2022
         tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
         
 awards:
