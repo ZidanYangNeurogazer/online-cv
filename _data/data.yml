@@ -43,14 +43,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Max Planck Florida Institute for Neuroscience who's keen on system neuroscience. 
+      I'm a PhD student at Max Planck Florida Institute for Neuroscience (MPFI) who's keen on system neuroscience. 
       I'm trying to understand the neural dynamics among cortical and subcortical regions during flexible motor timing in mice, using
       large-scale electrophysiology, optogenetics manipulation and computational analysis.   
 education:
     title: Education
     info:
       - degree: Ph.D. in Neuroscience
-        university: International Max Planck Research School (IMPRS) at Max Planck Florida Institute for Neuroscience, USA
+        university: International Max Planck Research School (IMPRS) at Max Planck Florida Institute for Neuroscience (MPFI), USA
         time: 2019 - present
         dissertation advisor: Dr. Hidehiko Inagaki
         details: |
