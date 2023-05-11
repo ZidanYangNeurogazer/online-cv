@@ -166,10 +166,21 @@ publications:
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
 
 projects:
-    title: Scientific Outreach & Leadership
+    title: Leadership & Scientific Outreach 
     intro: >
 
     assignments:
+    
+      - title: External PhD Representative for IMPRS program at MPFI | in transition
+        link:
+        time: 2023 - present
+        tagline: "Representing MPFI to the rest of the Max Planck Society PhD network. Bringing up issues with the Max Planck headquaters and sterring committee."
+        
+      - title: Chair of the Graduate Student Association at MPFI | 2020 - 2022
+        link:
+        time: 2020 - 2022
+        tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life."
+        
       - title: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
         link: "https://mpfi.org/science/max-planck-neuromeets/"
         time: 2022 - present
@@ -187,17 +198,7 @@ projects:
 
       - title: Freelance writer of the popular science magzine SATNAV | 2016
         link: "https://www.satnavmag.com/"
-        time: 2016 - 2016
-        
-      - title: External PhD Representative for IMPRS program at MPFI | in transition
-        link:
-        time: 2023 - present
-        tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
-        
-      - title: Chair of the Graduate Student Association | 2020 - 2022
-        link:
-        time: 2020 - 2022
-        tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life"
+        time: 2016 - 2016        
         
 awards:
     title: Awards & scholarships
