@@ -122,26 +122,6 @@ experiences:
           Studying the molecular and morphological mechanism of the development of leaf primordia in Kalanchoe daifremonitana.
           Performed RNA extraction, plant culture and video recording of leaf morphological development. Dr. Chunli Chen's lab  
           
-teachingexperiences:
-    title: Teaching & mentoring 
-    info:      
-      - role: Guest lecturer
-        time: 2022 - 2022
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Lecturing for the Max Planck Honors undergraduate course (introduction to system neuroscience) on motor control          
-      - role: Teaching assistant
-        time: 2022 - 2022
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
-      - role: Mentor of a Post-bac student
-        time: 2022 - 2023
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Mentoring a post-bac student at MPFI, project design and planning, experiment & analysis & graduate school application guidance.
-          Mentee will persue a Neuroscience doctral degree at the University of Texas at Dallas. 
-          
 publications:
     title: Publications & Presentations
     intro: |
@@ -168,6 +148,27 @@ publications:
         
       - title: All-optical interrogation of functional connectivity in mouse visual cortex during behavior | poster at SfN 2019, IL, USA
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
+          
+teachingexperiences:
+    title: Teaching & mentoring 
+    info:      
+      - role: Guest lecturer
+        time: 2022 - 2022
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Lecturing for the Max Planck Honors undergraduate course (introduction to system neuroscience) on motor control          
+      - role: Teaching assistant
+        time: 2022 - 2022
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          TA of the International Max Planck Research School's electrophysiological short course, helping students with MATLAB programming for data analysis
+      - role: Mentor of a Post-bac student
+        time: 2022 - 2023
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Mentoring a post-bac student at MPFI, project design and planning, experiment & analysis & graduate school application guidance.
+          Mentee will persue a Neuroscience doctral degree at the University of Texas at Dallas. 
+          
 
 projects:
     title: Leadership & Service
