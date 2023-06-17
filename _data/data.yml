@@ -145,7 +145,11 @@ teachingexperiences:
 publications:
     title: Publications & Posters
     intro: |
-    papers:
+    papers:    
+      - title: Experience-dependent adaptation of motor timing in ALM | poster presentation at Lake Conference 2023, WA, USA
+        link: "https://www.mpfi.org/events/sunposium-conference/#abstract-submission"
+        authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
+        
       - title: Experience-dependent adaptation of motor timing in ALM | poster presentation at Sunposium 2023, FL, USA
         link: "https://www.mpfi.org/events/sunposium-conference/#abstract-submission"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
