@@ -172,49 +172,48 @@ teachingexperiences:
 
 projects:
     title: Leadership & Service
-    intro: >
-
-    assignments:
-    
-      - title: External PhD Representative for IMPRS program at MPFI | 2023 - present
-        link:
+    info:      
+      - role: External PhD Representative for IMPRS program
         time: 2023 - present
-        tagline: "Representing MPFI to the rest of the Max Planck Society PhD network. Bringing up issues with the Max Planck headquaters and sterring committee."
-        
-      - title: Coordinator of the Network for Women in Science mentoring program at MPFI | 2023 - present
-        link:
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Representing MPFI to the rest of the Max Planck Society PhD network. Bringing up issues with the Max Planck headquaters and sterring committee  
+      - role: Coordinator of the Network for Women in Science mentoring program
         time: 2023 - present
-        tagline: "Organizing and hosting the mentoring program drawing from MPFI, UF/Scripps, FAU and NSU."   
-        
-      - title: Chair of the Graduate Student Association at MPFI | 2020 - 2022
-        link:
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Organizing and hosting the mentoring program drawing from MPFI, UF/Scripps, FAU and NSU
+      - role: Chair of the Graduate Student Association
         time: 2020 - 2022
-        tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life."
-        
-      - title: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
-        link: "https://mpfi.org/science/max-planck-neuromeets/"
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life
+      - role: Selection committee member of MPFI NeuroMEETS seminar series
         time: 2022 - present
-        tagline: "Evaluating the application materials of the candidates and select speakers for the seminar series."
-        
-      - title: Lead in a group project in Neuromatch Academy | 2021
-        link: "https://docs.google.com/presentation/d/1NtyK7CT58abww4WTwc1haO9IrwR9JB69zOigc3y1do8/edit?usp=sharing"    
+        company: Max Planck Florida Institute for Neuroscience, USA
+        details: |
+          Evaluating the application materials of the candidates and select speakers for the seminar series
+      - role: Lead in a group project in Neuromatch Academy
         time: 2021 - 2021
-        tagline: "Steering group meetings for the project and organize meetings with the mentor and TAs."
-
-      - title: eLife community ambassador | 2018 - 2019
-        link: "https://elifesciences.org/community"
+        company: Neuromatch Academy 
+        details: |
+          Steering group meetings for the project and organize meetings with the mentor and TAs    
+      - role: eLife community ambassador
         time: 2018 - 2019
-        tagline: "Spreading the awareness of open-science, equity and transparency in the research community."
-
-      - title: Project judge of the Big Bang competition of UK | 2016
-        link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
-        time: 2016 - 2016
-        tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
-
-      - title: Freelance writer of the popular science magzine SATNAV | 2016
-        link: "https://www.satnavmag.com/"
-        time: 2016 - 2016        
-        
+        company: eLife Community
+        details: |
+          Spreading the awareness of open-science, equity and transparency in the research community 
+       - role: Project judge of scientific competition for young scientists
+        time: 2018 - 2019
+        company: Bing Bang, UK
+        details: |
+          Rating project reports from middle/high schoolers and providing instructive comments          
+       - role: Freelance popular science writer 
+        time: 2018 - 2019 & 2020 - 2021
+        company: SATNAV, UK & Neueality, China
+        details: |
+          Writing popular science articles and translating articles into Chinese           
+          
 awards:
     title: Awards & scholarships
     info: 
