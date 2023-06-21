@@ -147,41 +147,43 @@ teachingexperiences:
 
 projects:
     title: Leadership & Service
-    info:      
-      - role: External PhD Representative for IMPRS program | 2023 - present
+     intro: >
+
+    assignments:
+    
+      - title: External PhD Representative for IMPRS program at MPFI | 2023 - present
+        link:
         time: 2023 - present
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Representing MPFI to the rest of the Max Planck Society PhD network. Bringing up issues with the Max Planck headquarters and steering committee  
-      - role: Coordinator of the Network for Women in Science mentoring program | 2023 - present
+        tagline: "Representing MPFI to the rest of the Max Planck Society PhD network. Bringing up issues with the Max Planck headquarters and steering committee."
+        
+      - title: Coordinator of the Network for Women in Science mentoring program at MPFI | 2023 - present
+        link:
         time: 2023 - present
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Organizing and hosting the mentoring program drawing from MPFI, UF/Scripps, FAU, and NSU
-      - role: Chair of the Graduate Student Association | 2020 - 2022
+        tagline: "Organizing and hosting the mentoring program drawing from MPFI, UF/Scripps, FAU and NSU."   
+        
+      - title: Chair of the Graduate Student Association at MPFI | 2020 - 2022
+        link:
         time: 2020 - 2022
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Coordinating between students and leaderships in the institute and university, to improve students' welfare and scientific life
-      - role: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
+        tagline: "Coordinating between students and leaderships in the institute and university, to improve students' welfare and scientific life."
+        
+      - title: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
+        link: "https://mpfi.org/science/max-planck-neuromeets/"
         time: 2022 - present
-        company: Max Planck Florida Institute for Neuroscience, USA
-        details: |
-          Evaluating the application materials of the candidates and selecting speakers for the seminar series
-      - role: eLife community ambassador | 2018 - 2019
+        tagline: "Evaluating the application materials of the candidates and selecting speakers for the seminar series."
+
+      - title: eLife community ambassador | 2018 - 2019
+        link: "https://elifesciences.org/community"
         time: 2018 - 2019
-        company: eLife Community
-        details: |
-          Spreading the awareness of open science, equity, diversity, and transparency in the research community 
-       - role: Project judge of scientific competition for young scientists | 2018 - 2019
-        time: 2018 - 2019
-        company: Bing Bang, UK
-        details: |
-          Rating project reports from middle/high schoolers and providing instructive comments          
-       - role: Freelance popular science writer at SATNAV, 2018 - 2019; Neureality, 2019 - 2020
-        time: 2018 - 2019
-        company: SATNAV, UK
-        details: |
+        tagline: "Spreading the awareness of open science, diversity, equity, and transparency in the research community."
+
+      - title: Project judge of the Big Bang Competition of UK | 2016
+        link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
+        time: 2016 - 2016
+        tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
+
+      - title: Freelance writer of the popular science magazine SATNAV | 2016, Neureality, 2020
+        link: "https://www.satnavmag.com/"
+        time: 2016 - 2016       
                    
           
 awards:
