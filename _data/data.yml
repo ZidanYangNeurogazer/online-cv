@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Zidan Yang
@@ -107,7 +107,7 @@ experiences:
         time: 2016 July - 2016 September
         company: University of Birmingham, UK
         details: |
-          Applied size-exclusion chromatography, co-immunoprecipitation. Dr. Damon Huber's lab.
+          Size-exclusion chromatography and co-immunoprecipitation. Dr. Damon Huber's lab.
       - role: Chinese Student Research Fund Studentship
         time: 2014 September - 2015 Janurary
         company: Huazhong Agricultural University, China
