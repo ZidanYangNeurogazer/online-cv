@@ -67,7 +67,7 @@ education:
           -
           -
       - degree: BSc in Biochemistry & Biotechnology
-        university: University of Birmingham, UK & Huazhong Agricultural University, China
+        university: University of Birmingham (UoB), UK & Huazhong Agricultural University (HZAU), China
         time: 2013 - 2017
         details: |
           High II.I with first class in lab project and dissertation. GPA 3.5/4. Dissertation advisor: Dr. Alicia Hidalgo
@@ -194,10 +194,12 @@ projects:
         link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
         tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
-      - title: Freelance writer of the popular science magazine SATNAV | 2016, Neureality, 2020
+      - title: Freelance writer of the popular science magazine SATNAV, UK | 2016, Neureality, China, 2020
         link: "https://www.satnavmag.com/"
-    
-                   
+
+      - title: Student chair of the College student mental health center, president of the Chinese traditional music club, HZAU, China | 2013 - 2015
+        tagline: "Focusing on mental health issues among college peers. Participating in musical competitions across institutions"
+                       
           
 awards:
     title: Awards & Scholarships
@@ -221,9 +223,13 @@ awards:
       - role: University Student Research Fund (SRF)
         time: 2014 - 2015
         company: Huazhong Agricultural University, China
+
+      - role: Scholarship of Leiao Biochemical Equipment Company
+        time: 2014 - 2015
+        company: Huazhong Agricultural University, China        
       
-      - role: Scholarship of Denghai Agricultural Company
-        time: 2013 - 2014
+      - role: Scholarship of academic exellence (three times)
+        time: 2013 - 2015
         company: Huazhong Agricultural University, China
      
       - role: Scholarship of the President
