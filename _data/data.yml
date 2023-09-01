@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -16,6 +17,7 @@ sidebar:
     timezone: EST
     linkedin: zidan-y-76353214b
     twitter: '@Zidan_Yang'
+    website: https://scholar.google.com/citations?user=Z9clqBkAAAAJ&hl=en
 
     languages:
       title: Languages
@@ -50,13 +52,13 @@ education:
     info:
       - degree: Ph.D. in Neuroscience
         university: International Max Planck Research School (IMPRS) at Max Planck Florida Institute for Neuroscience (MPFI) & Florida Atlantic University, USA
-        time: 2019 - present
+        time: 2019 - 2024
         details: |
           Brain regions work together to plan when and how to execute learned movements, by measuring multiple regions' activities
           simultaneously with the Neuropixels probe, and interrogating their causal relationships with fine-scale optogenetics, I'm trying to 
           untangle the system mechanism underlying motor timing. Dissertation advisor: Dr. Hidehiko Inagaki
-          - 
-          -
+          - Bullet point
+          - Bullet point
       - degree: MSc. in Neuroscience
         university: University College London (UCL), UK
         time: 2017 - 2018
@@ -64,16 +66,16 @@ education:
           High merit with distinction in the lab research project and dissertation. Dissertation advisor: Dr. Michael Hausser
           Core modules: systems and circuit neuroscience, cognitive systems neuroscience, developmental neurobiology,
           receptors and synaptic signaling, neuroscience journal club.               
-          -
-          -
-      - degree: BSc in Biochemistry & Biotechnology
+          - Bullet point
+          - Bullet point
+      - degree: BSc. in Biochemistry & Biotechnology
         university: University of Birmingham (UoB), UK & Huazhong Agricultural University (HZAU), China
         time: 2013 - 2017
         details: |
           High II.I with first class in lab project and dissertation. GPA 3.5/4. Dissertation advisor: Dr. Alicia Hidalgo
           Relevant modules: cellular neurobiology, immunology and signaling in the nervous system.
-          -
-          -
+          - Bullet point
+          - Bullet point
 experiences:
     title: Research Experiences
     info:
