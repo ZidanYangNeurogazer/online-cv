@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a PhD student at Max Planck Florida Institute for Neuroscience (MPFI), currently trying to understand the neural dynamics among cortical and subcortical regions during motor timing in mice, using
+      I'm a Ph.D. candidate at Max Planck Florida Institute for Neuroscience (MPFI), currently trying to understand the neural dynamics among cortical and subcortical regions during flexible motor timing in mice, using
       large-scale electrophysiology, optogenetics manipulation, and computational analysis.   
 education:
     title: Education
@@ -81,7 +81,7 @@ experiences:
         time: 2019 - present
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Behavioral task development, large-scale extracellular electrophysiology, optogenetics, and data analysis. Dr. Hidehiko Inagaki's lab.
+          Behavioral tasks development, large-scale in-vivo extracellular electrophysiology, optogenetics, and data analysis. Dr. Hidehiko Inagaki's lab.
       - role: Graduate research assistant
         time: 2018 - 2019
         company: University College London (UCL), UK
@@ -208,7 +208,7 @@ projects:
 awards:
     title: Awards & Scholarships
     info: 
-      - role: Outstanding Alumni Awards
+      - role: Outstanding Alumni 
         time: 2017 - 2017
         company: Huazhong Agricultural University, China
    
