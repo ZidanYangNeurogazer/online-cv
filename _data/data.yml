@@ -121,9 +121,11 @@ publications:
     intro: |
     papers:            
       - title: Robust dynamical systems for flexible motor timing in the cortico-basal ganglia loop | paper in prep
+        link:
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Lorenzo Fontolan, Hidehiko Inagaki
 
       - title: A reinforcement learning model based time encoding in striatum | poster at Neural Control of Movement conference, 2024
+        link:
         authors:  John Lazzari, Zidan Yang, Hidehiko Inagaki, Shreya Saxena
     
       - title: Cell-type-specific plasticity shapes neocortical dynamics for motor learning | poster at SfN, 2023 & COSYNE, 2024
