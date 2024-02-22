@@ -120,12 +120,13 @@ publications:
     title: Publications & Presentations
     intro: |   
     papers:
-      - title: "Robust dynamical systems for flexible motor timing in the cortico-basal ganglia loop | manuscript in prep"
+      - title: "Robust dynamical systems for flexible motor timing in the cortico-basal ganglia loop"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Lorenzo Fontolan, Hidehiko Inagaki        
+        conference: "manuscript in prep"
 
       - title: "Hierarchical Goal-Driven Model of the Cortico-Basal Ganglia Loop During a Time Delay Task | poster at Neural Control of Movement conference, 2024, Dubrovnik, Croatia"
         authors: John Lazzari, Zidan Yang, Hidehiko Inagaki, Shreya Saxena
-        conference: "poster at Neural Control of Movement, 2024, Dubrovnik, Croatia"
+        conference: "Poster at Neural Control of Movement, 2024, Dubrovnik, Croatia"
 
       - title: "Cell-type-specific plasticity shapes neocortical dynamics for motor learning"
         link: "https://www.biorxiv.org/content/10.1101/2023.08.09.552699v2"
@@ -135,7 +136,7 @@ publications:
       - title: "Experience-dependent adaptation of motor timing in ALM"
         link: "https://alleninstitute.org/events/lake-conferences-neural-coding-and-dynamics/"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
-        conference: "poster at Sunposium & Lake conference & SfN & scientific talk at Allen Institute, 2023, USA"
+        conference: "Poster at Sunposium & Lake conference & SfN & scientific talk at Allen Institute, 2023, USA"
 
       - title: "A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement"
         link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
@@ -154,7 +155,7 @@ publications:
 
       - title: "All-optical interrogation of functional connectivity in mouse visual cortex during behavior"
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selma
-        conference: "poster at SfN 2019, IL, USA"
+        conference: "Poster at SfN 2019, IL, USA"
 
           
 teachingexperiences:
