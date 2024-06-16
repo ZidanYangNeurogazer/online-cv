@@ -120,11 +120,11 @@ publications:
     title: Publications & Presentations
     intro: |   
     papers:
-      - title: "Robust dynamical systems for flexible motor timing in the cortico-basal ganglia loop"
-        authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Lorenzo Fontolan, Hidehiko Inagaki        
-        conference: "Manuscript in prep"
+      - title: "The frontal cortex adjusts striatal integrator dynamics for flexible motor timing"
+        authors: Zidan Yang, Miho Inagaki, Charles Gerfen, Lorenzo Fontolan, Hidehiko Inagaki        
+        conference: "Manuscript under submission"
 
-      - title: "Hierarchical Goal-Driven Model of the Cortico-Basal Ganglia Loop During a Time Delay Task"
+      - title: "Hierarchical goal-driven model of the cortico-basal ganglia loop during a time delay task"
         authors: John Lazzari, Zidan Yang, Hidehiko Inagaki, Shreya Saxena
         conference: "Poster at Neural Control of Movement, 2024, Dubrovnik, Croatia"
 
@@ -165,17 +165,17 @@ teachingexperiences:
         time: 2022 - 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Lecturing for the Max Planck Honors undergraduate course (introduction to system neuroscience) on motor control          
+          Lecturing for the Max Planck Honors undergraduate course (introduction to systems neuroscience) on motor control          
       - role: Teaching Assistant
         time: 2022 - 2022
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
           Assisting programming in MATLAB data analysis of the IMPRS Electrophysiology short course     
-      - role: Mentor of a Post-bac student
-        time: 2022 - 2023
+      - role: Mentor of Post-bac students
+        time: 2022 - present
         company: Max Planck Florida Institute for Neuroscience, USA
         details: |
-          Mentoring a post-bac student, experiment, analysis, and graduate school application guidance, the mentee will start a doctoral program in neuroscience at UT Dallas, 2023        
+          Mentoring post-bac students, experiment, analysis, and graduate school application guidance       
 
 projects:
     title: Leadership & Service
@@ -221,6 +221,10 @@ projects:
 awards:
     title: Awards & Scholarships
     info: 
+      - role: International Max Planck Research School travel grant
+        time: 2023
+        company: Max Planck Florida Institute for Neuroscience, USA
+    
       - role: Outstanding Alumni 
         time: 2017 - 2017
         company: Huazhong Agricultural University, China
