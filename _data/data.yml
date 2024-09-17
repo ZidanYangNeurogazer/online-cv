@@ -160,8 +160,7 @@ publications:
 
 invitedtalks:
     title: Invited talks & workshops
-    intro: |   
-    papers:
+    info:   
       - role: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"    
         time: 2024
         company: "Peter Dayan lab invited talk, Max Planck Institute for Biological Cybernetics"
