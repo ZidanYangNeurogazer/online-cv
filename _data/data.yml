@@ -117,12 +117,13 @@ experiences:
           RNA extraction, plant culture, and video recording of leaf morphological development. Dr. Chunli Chen's lab  
           
 publications:
-    title: Publications & Presentations
+    title: Publications & Posters
     intro: |   
     papers:
-      - title: "The frontal cortex adjusts striatal integrator dynamics for flexible motor timing"
+      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"
+        link: "https://www.biorxiv.org/content/10.1101/2024.06.29.601348v3"
         authors: Zidan Yang, Miho Inagaki, Charles Gerfen, Lorenzo Fontolan, Hidehiko Inagaki        
-        conference: "Manuscript under submission"
+        conference: "Under review in Nature"
 
       - title: "Hierarchical goal-driven model of the cortico-basal ganglia loop during a time delay task"
         authors: John Lazzari, Zidan Yang, Hidehiko Inagaki, Shreya Saxena
@@ -157,6 +158,14 @@ publications:
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selma
         conference: "Poster at SfN 2019, IL, USA"
 
+invitedtalks:
+    title: Invited talks & workshops
+    intro: |   
+    papers:
+      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"
+        link: "https://www.biorxiv.org/content/10.1101/2024.06.29.601348v3"
+        authors: Zidan Yang, Miho Inagaki, Charles Gerfen, Lorenzo Fontolan, Hidehiko Inagaki        
+        conference: "Under review in Nature"
           
 teachingexperiences:
     title: Teaching & mentoring 
