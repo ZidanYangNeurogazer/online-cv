@@ -137,7 +137,7 @@ publications:
       - title: "Experience-dependent adaptation of motor timing in ALM"
         link: "https://alleninstitute.org/events/lake-conferences-neural-coding-and-dynamics/"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
-        conference: "Poster at Sunposium & Lake conference & SfN & scientific talk at Allen Institute & MPFI scientific retreat, 2023, USA"
+        conference: "Poster at Sunposium & Lake conference & SfN & MPFI scientific retreat, 2023, USA"
 
       - title: "The influence of cortical activity on perception depends on behavioral state and sensory context"
         link: "https://www.nature.com/articles/s41467-024-46484-5"
@@ -162,10 +162,17 @@ invitedtalks:
     title: Invited talks & workshops
     intro: |   
     papers:
-      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"
-        link: "https://www.biorxiv.org/content/10.1101/2024.06.29.601348v3"
-        authors: Zidan Yang, Miho Inagaki, Charles Gerfen, Lorenzo Fontolan, Hidehiko Inagaki        
-        conference: "Under review in Nature"
+      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"      
+        conference: "Peter Dayan lab invited talk, Max Planck Institute for Biological Cybernetics, 2024"
+
+      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"      
+        conference: "Zeiss graduate student representative talk, SfN, 2024"
+
+      - title: "Methods in Computational Neuroscience"      
+        conference: "Marine Biological Laboratory, 2024"
+
+      - title: "Experience-dependent adaptation of motor timing in ALM"      
+        conference: "Mini-symposium, Allen Institute, 2023"
           
 teachingexperiences:
     title: Teaching & mentoring 
@@ -230,6 +237,10 @@ projects:
 awards:
     title: Awards & Scholarships
     info: 
+      - role: Stanley W. Watson Education Scholarship
+        time: 2024
+        company: Marine Biological Laboratory, USA
+    
       - role: International Max Planck Research School travel grant
         time: 2023
         company: Max Planck Florida Institute for Neuroscience, USA
