@@ -1,32 +1,37 @@
 {% assign invitedtalks = site.data.data.invitedtalks %}
 {% if invitedtalks %}
 <section class="section invitedtalks-section">
-
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
     {{ invitedtalks.title }}
   </h2>
 
-  {% if invitedtalks.intro %}
-  <div class="intro">
-    {{ invitedtalks.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for publication in invitedtalks.papers %}
+  {% for experience in invitedtalks.info %}
   <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% else %}
-      <li>{{ publication.title }}</li>
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+
   </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
 {% endif %}
+
