@@ -162,17 +162,21 @@ invitedtalks:
     title: Invited talks & workshops
     intro: |   
     papers:
-      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"      
-        conference: "Peter Dayan lab invited talk, Max Planck Institute for Biological Cybernetics, 2024"
+      - role: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"    
+        time: 2024
+        company: "Peter Dayan lab invited talk, Max Planck Institute for Biological Cybernetics"
 
-      - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"      
-        conference: "Zeiss graduate student representative talk, SfN, 2024"
+      - role: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"  
+        time: 2024
+        company: "Zeiss graduate student representative talk, SfN, Chicago"
 
-      - title: "Methods in Computational Neuroscience"      
-        conference: "Marine Biological Laboratory, 2024"
+      - role: "Methods in Computational Neuroscience"      
+        time: 2024
+        company: "Marine Biological Laboratory"
 
-      - title: "Experience-dependent adaptation of motor timing in ALM"      
-        conference: "Mini-symposium, Allen Institute, 2023"
+      - role: "Experience-dependent adaptation of motor timing in ALM"    
+        time: 2023
+        company: "Mini-symposium, Allen Institute"
           
 teachingexperiences:
     title: Teaching & mentoring 
