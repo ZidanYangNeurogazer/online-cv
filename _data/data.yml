@@ -123,7 +123,7 @@ publications:
       - title: "Integrator dynamics in the cortico-basal ganglia loop underlie flexible motor timing"
         link: "https://www.biorxiv.org/content/10.1101/2024.06.29.601348v3"
         authors: Zidan Yang, Miho Inagaki, Charles Gerfen, Lorenzo Fontolan, Hidehiko Inagaki        
-        conference: "Under review in Nature"
+        conference: "Under revision in Nature"
 
       - title: "Hierarchical goal-driven model of the cortico-basal ganglia loop during a time delay task"
         authors: John Lazzari, Zidan Yang, Hidehiko Inagaki, Shreya Saxena
@@ -175,6 +175,10 @@ invitedtalks:
       - role: "Experience-dependent adaptation of motor timing in ALM"    
         time: 2023
         company: "Mini-symposium, Allen Institute"
+
+      - role: "Computational Neuroscience course participant & group project leader"    
+        time: 2021
+        company: "Neuromatch Academy"
           
 teachingexperiences:
     title: Teaching & mentoring 
